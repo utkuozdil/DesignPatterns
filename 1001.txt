@@ -1,0 +1,5 @@
+<html><head><title>Order Details</title></head><body>
+<h1>Order #1001</h1>
+<p><ul><li>fanta $2.0</li><li>soda $1.0</li><li>cola $3.0</li></ul></p>
+<br/><hr/><h3>Total : $6.0</h3>
+</body></html>
